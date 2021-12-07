@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jsdevhk" target="blank"><img src="https://img.shields.io/twitter/follow/jsdevhk?logo=twitter&style=for-the-badge" alt="jsdevhk" /></a> </p>
 
-- 🌱 I’m currently learning **React, Vue, C, JavaScript**
+- 🌱 I’m currently learning **React, C, Rust**
 
 - 💬 Ask me about **React, Express, Node.js, MongoDB**
 
