@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">A self taught developer from Hong Kong</h3>
+<h3 align="center">A self taught developer from Hong Kong, based in Sydney</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aesmi&label=Profile%20views&color=0e75b6&style=flat" alt="aesmi" /> </p>
 
