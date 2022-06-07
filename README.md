@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aesmi&label=Profile%20views&color=0e75b6&style=flat" alt="aesmi" /> </p>
 
 
-- 🌱 I’m currently learning **React, C, Rust**
+- 🌱 I’m currently learning **React, C, Rust, and Node.js**
 
 - 💬 Ask me about **React, Express, Node.js, MongoDB**
 
