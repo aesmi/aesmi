@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Express, Node.js, MongoDB**
 
-- ⚡ Fun fact **I like Pikachu and coffee**
+- ⚡ Fun fact **I like cats and coffee**
 
 - 💻 Dev Post **https://devpost.com/aesmi**
 
